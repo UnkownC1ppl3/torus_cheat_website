@@ -1,0 +1,66 @@
+/* Header NAV-LINKS */
+.nav__links-link:hover {
+    color: #fff;
+    border-bottom: 1px solid var(--main-color);
+    padding-bottom: 4px;
+
+    transition: 0.1s ease-in-out;
+}
+
+/* Header NAV-BUTTON */
+.header__nav-btn:hover {
+    color: var(--main-color);
+    background-color: var(--main-background-color);
+    transform: scale(1.1);
+
+    transition: 0.3s ease-in-out;
+}
+
+/* Main SECTION BUTTON-FIRST */
+.main__section-header-btn-first:hover {
+    color: #7593ff;
+    background-color: #101010;
+
+    transition: 0.3s ease-in-out;
+}
+
+/* Main SECTION BUTTON-SECOND */
+.main__section-header-btn-second:hover {
+    color: #fff;
+    background-color: #101010;
+
+    transition: 0.3s ease-in-out;
+}
+
+/* Main SECTION FEATURES-REVIEWS-BTN */
+.main__section-features-reviews-btn:hover {
+    color: #7593ff;
+    background-color: #181818;
+
+    transform: scale(1.1);
+
+    transition: 0.3s ease-in-out;
+}
+
+/* Main SECTION FEATURES-BLOCK */
+.main__section-features-block:hover {
+    transform: scale(1.06);
+    
+    transition: 0.4s ease-in-out;
+}
+
+/* Main SECTION VIDEO-BTN-FIRST */
+.main__section-video-btn-first:hover {
+    color: #7593ff;
+    background-color: #101010;
+
+    transition: 0.3s ease-in-out;
+}
+
+/* Main SECTION VIDEO-BTN-SECOND */
+.main__section-video-btn-second:hover {
+    color: #fff;
+    background-color: #101010;
+
+    transition: 0.3s ease-in-out;
+}

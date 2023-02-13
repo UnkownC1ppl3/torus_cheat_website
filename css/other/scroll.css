@@ -1,0 +1,10 @@
+::-webkit-scrollbar-track {
+	background-color: #050505; /*Цвет скролла*/
+} 
+::-webkit-scrollbar-thumb { 
+	border-radius: 6px; /*Закругление ползунка*/
+	background-color: #202020; /*Цвет ползунка*/
+} 
+::-webkit-scrollbar { 
+	width: 6px;  /*Толщина скролла*/
+}
